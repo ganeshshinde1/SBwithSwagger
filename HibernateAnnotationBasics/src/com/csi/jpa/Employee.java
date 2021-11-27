@@ -6,6 +6,8 @@ import javax.persistence.Id;
 
 @Entity
 public class Employee {
+	//addded changes by ganesh
+	
 @Id
 @GeneratedValue
 private int empId;
